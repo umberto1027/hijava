@@ -13,8 +13,8 @@ public class Num {
 		System.out.println(Short.MAX_VALUE);
 		System.out.println(Integer.MAX_VALUE);
 		System.out.println(Long.MAX_VALUE);
-		
-//		¡÷ºÆ¥ﬁ±‚
+
+//		Ï£ºÏÑùÎã¨Í∏∞
 	}
 
 }
